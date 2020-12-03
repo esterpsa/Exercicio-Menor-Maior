@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.exe
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.deps.json
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.runtimeconfig.json
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.dll
+C:\Users\ACER\Desktop\Repeticao\bin\Debug\netcoreapp3.1\Repeticao.pdb
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.dll
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.pdb
+C:\Users\ACER\Desktop\Repeticao\obj\Debug\netcoreapp3.1\Repeticao.genruntimeconfig.cache
